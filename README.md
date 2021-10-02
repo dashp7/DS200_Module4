@@ -4,7 +4,7 @@
 
 > ** Analysis and Visualization of a Dataset **
 
-The dataset used in this report is 'Estimated number of enterprises in different States/UTs' from www.data.gov.in. The link to the dataset is <a href="#my_anchor">[1]**https://data.gov.in/resources/estimated-number-enterprises-different-statesuts** . This presents the estimated number of unincorporated non-agricultural enterprises in different States and UTs. An unincorporated industrial unit is a production unit that is not registered as a legal entity separate from the owner. In the plots, the term unincorporated industry is abbreviated as UI.
+The dataset used in this report is 'Estimated number of enterprises in different States/UTs' from www.data.gov.in. The link to the dataset is <a href="https://data.gov.in/resources/estimated-number-enterprises-different-statesuts">[1]**https://data.gov.in/resources/estimated-number-enterprises-different-statesuts** . This presents the estimated number of unincorporated non-agricultural enterprises in different States and UTs. An unincorporated industrial unit is a production unit that is not registered as a legal entity separate from the owner. In the plots, the term unincorporated industry is abbreviated as UI.
 
 ## Documentation
 1. The file ```analysis.py``` conains the script to generate the plots.
