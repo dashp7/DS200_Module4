@@ -7,7 +7,7 @@
 The dataset used in this report is 'Estimated number of enterprises in different States/UTs' from www.data.gov.in. The link to the dataset is https://data.gov.in/resources/estimated-number-enterprises-different-statesuts . This presents the estimated number of unincorporated non-agricultural enterprises in different States and UTs. An unincorporated industrial unit is a production unit that is not registered as a legal entity separate from the owner. In the plots, the term unincorporated industry is abbreviated as UI.
 
 ## Documentation
-1. The folder ```scripts/``` conains the script to generate the plots.
+1. The file ```analysis.py``` conains the script to generate the plots.
 2. The plots are located in ```plots/```.
 3. The dataset is located in the form of a .xls file in the folder ```datasets/```.
 4. The libraries used are ```numpy```, ```pandas```, ```scipy``` and ```matplotlib```. 
