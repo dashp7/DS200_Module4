@@ -32,3 +32,5 @@ For reference, the term Rural_OAE stands for Rural Own Account Enterprises and R
 ### Conclusion
 To summarize the results, a logarithmic relation between the rural and urban UIs in each state was obtained. It was noted that the states with high population have larger number of UIs and the manner in which the number of UIs in rural/urban region were spread as a fraction of the total number of UIs for a state depended on its ownership.
 
+### References
+<b id="my_anchor">[1].</b> Estimated number of enterprises in different States/UTs(https://data.gov.in/resources/estimated-number-enterprises-different-statesuts).
