@@ -29,3 +29,6 @@ The bar graph shows the number of UIs in each state in the rural and urban areas
 
 For reference, the term Rural_OAE stands for Rural Own Account Enterprises and Rural_E stands for Rural Establishment. While comparing the number UIs that are OAEs or establishments for all states won't be a fair comparison, so the values were normalized using the total number of UIs in each state/union territory. It can be observed that the median values of the percentage of UIs  as OAEs was larger than the percentage of UIs as establishments for both rural and urban regions. Considering the way in which the data is spread, the difference between the third quartile and the first quartile depends upon the type of industrial unit. A few outliers have been observed in each of the four categories.
 
+### Conclusion
+To summarize the results, a logarithmic relation between the rural and urban UIs in each state was obtained. It was noted that the states with high population have larger number of UIs and the manner in which the number of UIs in rural/urban region were spread as a fraction of the total number of UIs for a state depended on its ownership.
+
